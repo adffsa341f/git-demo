@@ -12,6 +12,6 @@ hello nihao
 hello nihao
 hello nihao
 hello nihao
-hello nihao
 hello nihao master test
-hello nihao hot-fix test
+hello nihao 
+hello nihao 
