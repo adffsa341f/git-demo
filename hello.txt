@@ -8,10 +8,4 @@ hello nihao
 hello nihao
 hello nihao
 hello nihao
-hello nihao
-hello nihao
-hello nihao
-hello nihao
-hello nihao master test
-hello nihao 
-hello nihao 
+hello nihao  main test
